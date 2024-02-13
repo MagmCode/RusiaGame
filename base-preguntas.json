@@ -1,0 +1,82 @@
+[
+    {
+        "categoria": "RUSIA",
+        "pregunta": "¿Cual es la capital de Rusia?",
+        "respuesta": "Moscú",
+        "incorrecta1": "Paris",
+        "incorrecta2": "Berlin",
+        "incorrecta3": "kazan\r"
+    },
+    {
+        "categoria": "RUSIA",
+        "pregunta": "¿Cual es su superficie?",
+        "respuesta": "17,1 millones km2",
+        "incorrecta1": "15,5 millones km2",
+        "incorrecta2": "25,9 millones km2",
+        "incorrecta3": "35 millones km2\r"
+    },
+    {
+        "categoria": "RUSIA",
+        "pregunta": "¿Que colores compone la bandera Rusa?",
+        "respuesta": "Blanco, azul y rojo",
+        "incorrecta1": "Rojo, azul y amarillo",
+        "incorrecta2": "Azul, verde, y blanco",
+        "incorrecta3": "Rojo, azul y gris\r"
+    },
+    {
+        "categoria": "RUSIA",
+        "pregunta": "¿Desde cuando se usa la bandera?",
+        "respuesta": "11 de diciembre de 1993",
+        "incorrecta1": "24 de febrero de 1991",
+        "incorrecta2": "05 de julio de 1978",
+        "incorrecta3": "12 de octubre de 1995\r"
+    },
+    {
+        "categoria": "RUSIA",
+        "pregunta": "¿Quien es el actual presidente?",
+        "respuesta": "Vladimir putin",
+        "incorrecta1": "Borut Pahor",
+        "incorrecta2": "Joachim Gauck",
+        "incorrecta3": "Georgi Malenkov\r"
+    },
+    {
+        "categoria": "RUSIA",
+        "pregunta": "Baile tipico",
+        "respuesta": "Kazachock",
+        "incorrecta1": "Hopak",
+        "incorrecta2": "Tropak",
+        "incorrecta3": "Beryozka\r"
+    },
+    {
+        "categoria": "RUSIA",
+        "pregunta": "Grupo musical mas famoso de rusia?",
+        "respuesta": "t.A.T.u",
+        "incorrecta1": "Maneskin",
+        "incorrecta2": "ABBA",
+        "incorrecta3": "Ninguno\r"
+    },
+    {
+        "categoria": "RUSIA",
+        "pregunta": "¿Que porcentaje de la poblacion usa el ruso como unico y principal idioma?",
+        "respuesta": "81%",
+        "incorrecta1": "95%",
+        "incorrecta2": "73%",
+        "incorrecta3": "100%\r"
+    },
+    {
+        "categoria": "RUSIA",
+        "pregunta": "Comida Tipica",
+        "respuesta": "Pastel de miel",
+        "incorrecta1": "Estofado",
+        "incorrecta2": "Pastel de carne",
+        "incorrecta3": "Papas al vapor\r"
+    },
+    {
+        "categoria": "RUSIA",
+        "pregunta": "Lugar mas visitado",
+        "respuesta": "La Plaza Roja",
+        "incorrecta1": "Big Ben ",
+        "incorrecta2": "Catedral San Basilio ",
+        "incorrecta3": "Monasterio Nikolo-Perervinsky\r"
+    }
+]

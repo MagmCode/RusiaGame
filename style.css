@@ -1,0 +1,175 @@
+* {
+    transition: all 0.3s;
+  }
+
+  body {
+    background: rgb(185,62,62);
+    background: linear-gradient(0deg, rgba(185,62,62,1) 0%, rgba(55,69,189,1) 100%);
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: calibri;
+    font-size: 120%;
+  }
+
+  .contenedor {
+    width: 98vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .encabezado {
+    position: relative;
+    background: white;
+    min-width: 300px;
+    width: 60%;
+    max-width: 500px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 7px;
+  }
+
+  .categoria {
+    opacity: 0.3;
+    text-align: left;
+  }
+
+  .pregunta {
+    padding: 10px;
+  }
+
+  .imagen {
+    object-fit: cover;
+    height: 0px;
+    width: 0px;
+  }
+
+  .btn {
+    background: white;
+    width: 60%;
+    max-width: 500px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .btn:hover {
+    transform: scale(1.05);
+  }
+  
+  .numero{
+    position: absolute;
+    opacity:0.3;
+    top: 10px;
+    right: 10px;
+    color: white;
+  }
+  
+  .puntaje{
+    padding:0;
+    color:white;
+    font-size: 25px;
+  }
+  .game{
+    padding:0px;
+    color:white;
+    font-size: 30px;
+    margin: 0 0 20px 0;
+    font-weight: 700;
+
+  }
+
+
+  @media (max-width:768px){
+* {
+    transition: all 0.3s;
+  }
+
+  body {
+    background: rgb(185,62,62);
+    background: linear-gradient(0deg, rgba(185,62,62,1) 0%, rgba(55,69,189,1) 100%);
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: calibri;
+    font-size: 120%;
+  }
+
+  .contenedor {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .encabezado {
+    position: relative;
+    background: white;
+    min-width: 250px;
+    width: 60%;
+    max-width: 500px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 7px;
+  }
+
+  .categoria {
+    opacity: 0.3;
+    text-align: left;
+  }
+
+  .pregunta {
+    padding: 10px;
+  }
+
+  .imagen {
+    object-fit: cover;
+    height: 0px;
+    width: 0px;
+  }
+
+  .btn {
+    background: white;
+    width: 60%;
+    max-width: 500px;
+    min-width: 250px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .btn:hover {
+    transform: scale(1.05);
+  }
+  
+  .numero{
+    position: absolute;
+    opacity:0.3;
+    top: 10px;
+    right: 10px;
+    color: white;
+  }
+  
+  .puntaje{
+    padding:0;
+    color:white;
+    font-size: 25px;
+  }
+  .game{
+    padding:0px;
+    color:white;
+    font-size: 30px;
+    margin: 0 0 20px 0;
+    font-weight: 700;
+
+  }
+  }
+
+  
